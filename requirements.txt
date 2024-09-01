@@ -1,0 +1,5 @@
+streamlit
+streamlit_chat
+sentence_transformers
+pinecone
+langchain_community
